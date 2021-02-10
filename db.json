@@ -1,16 +1,25 @@
 {
-  "posts":[
+  "streams": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "title": "joe",
+      "description": "test",
+      "id": 1
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "title": "test",
+      "description": "test",
+      "id": 2
+    },
+    {
+      "title": "Testing edit",
+      "description": "this is programatic navigation",
+      "id": 5
+    },
+    {
+      "title": "test",
+      "description": "hello",
+      "userId": "117067309447542813255",
+      "id": 6
     }
   ]
 }
